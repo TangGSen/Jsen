@@ -17,7 +17,8 @@ public class LoginRegisterActivity extends BaseActivity {
     public void initView() {
         setContentView(R.layout.activity_login_register);
         ButterKnife.bind(this);
-        
+
+
     }
 
 

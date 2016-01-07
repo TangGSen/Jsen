@@ -6,4 +6,6 @@
     <!--actionbar -->
     <color name="actionBar">#4CAF50</color>
     <color name="textActionBarTile">#F1F8E9</color>
+
+    <color name="whilte">#F1F8E9</color>
 </resources>
