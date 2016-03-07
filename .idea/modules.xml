@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuoYaoELearning/GuoYaoELearning.iml" filepath="$PROJECT_DIR$/GuoYaoELearning/GuoYaoELearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jsen.iml" filepath="$PROJECT_DIR$/Jsen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Jsen.iml" filepath="$PROJECT_DIR$/Jsen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/liuboss/liuboss.iml" filepath="$PROJECT_DIR$/liuboss/liuboss.iml" />
-      <module fileurl="file://$PROJECT_DIR$/liuboss/liuboss.iml" filepath="$PROJECT_DIR$/liuboss/liuboss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazyfragment/lazyfragment.iml" filepath="$PROJECT_DIR$/lazyfragment/lazyfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickreturn/quickreturn.iml" filepath="$PROJECT_DIR$/quickreturn/quickreturn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-PullPushLayout/tomcat-PullPushLayout.iml" filepath="$PROJECT_DIR$/tomcat-PullPushLayout/tomcat-PullPushLayout.iml" />
     </modules>
   </component>
 </project>
